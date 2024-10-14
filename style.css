@@ -402,19 +402,19 @@ hr {
   font-size: 40px;
   font-weight: 700;
   padding: 0.5em 0;
+  margin-bottom: 1em;
   box-shadow: 5px 4px 4px rgb(166, 154, 166);
 }
 
 .listarodape {
   display: grid;
   grid-template-columns: repeat(5, 1fr); 
-  gap: 20px; 
+  gap: 10px; 
 }
 
 .rodapeitem {
   display: flex;
   align-items: center;
-  margin: 0.6em 0;
 }
 
 .rodapeitem img {
